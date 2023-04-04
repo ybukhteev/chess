@@ -1,0 +1,5 @@
+.registration {
+  display: flex;
+  column-gap: 50px;
+  align-items: center;
+}

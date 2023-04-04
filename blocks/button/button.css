@@ -1,0 +1,8 @@
+.button {
+  color: #fff;
+  font: 600 15px/18px 'Noto Sans', sans-serif;
+  border: none;
+  border-radius: 8px;
+  padding: 14px 28px 16px;
+  cursor: pointer;
+}
