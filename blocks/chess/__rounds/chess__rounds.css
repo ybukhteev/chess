@@ -1,0 +1,12 @@
+.chess__rounds {
+  background-image: url(../../../images/four-circles.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 640px 640px;
+  right: -160px;
+  top: 10px;
+  width: 640px;
+  height: 640px;
+  position: absolute;
+  z-index: 10;
+}

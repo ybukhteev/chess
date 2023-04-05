@@ -4,13 +4,13 @@
 /* Шрифты */
 @import url(../vendor/fonts/fonts.css);
 
+/* Импорт файлов стилей общих элеметов */
 @import url(../blocks/page/page.css);
-
 @import url(../blocks/container/container.css);
-
 @import url(../blocks/link/link.css);
 @import url(../blocks/button/button.css);
 
+/* Импорт файлов стилей хэдера */
 @import url(../blocks/header/header.css);
 @import url(../blocks/header/__container/header__container.css);
 @import url(../blocks/header/__logo/header__logo.css);
@@ -18,4 +18,14 @@
 @import url(../blocks/header/__button/header__button.css);
 @import url(../blocks/header/__arrow-icon/header__arrow-icon.css);
 @import url(../blocks/registration/registration.css);
+
+/* Импорт файлов стилей секции "Правильные шахматы" */
+@import url(../blocks/chess/chess.css);
+@import url(../blocks/chess/__container/chess__container.css);
+@import url(../blocks/chess/__club/chess__club.css);
+@import url(../blocks/chess/__heading/chess__heading.css);
+@import url(../blocks/chess/__text/chess__text.css);
+@import url(../blocks/chess/__image/chess__image.css);
+@import url(../blocks/chess/__rounds/chess__rounds.css);
+
 
