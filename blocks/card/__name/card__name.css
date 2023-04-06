@@ -1,0 +1,6 @@
+.card__name {
+  margin: 0 0 10px 0;
+  color: #fff;
+  font: 400 22px/28.6px 'Noto Sans', 'Arial', sans-serif;
+  text-transform: uppercase;
+}
