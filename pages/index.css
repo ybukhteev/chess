@@ -35,8 +35,15 @@
 @import url(../blocks/our-team/__text/our-team__text.css);
 @import url(../blocks/our-team/__cards/our-team__cards.css);
 @import url(../blocks/our-team/__card/our-team__card.css);
-
 @import url(../blocks/card/card.css);
 @import url(../blocks/card/__image/card__image.css);
 @import url(../blocks/card/__name/card__name.css);
 @import url(../blocks/card/__job/card__job.css);
+
+/* Импорт файлов стилей секции "Хочешь в нашу команду" */
+@import url(../blocks/invite/invite.css);
+@import url(../blocks/invite/__container/invite__container.css);
+@import url(../blocks/invite/__image/invite__image.css);
+@import url(../blocks/invite/__heading/invite__heading.css);
+@import url(../blocks/invite/__text/invite__text.css);
+

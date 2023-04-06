@@ -1,0 +1,10 @@
+.invite__image {
+  background-image: url(../../../images/two-round.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 880px;
+  height: 440px;
+  position: absolute;
+  left: -100px;
+  bottom: 60px;
+}
