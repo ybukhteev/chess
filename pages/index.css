@@ -47,3 +47,12 @@
 @import url(../blocks/invite/__heading/invite__heading.css);
 @import url(../blocks/invite/__text/invite__text.css);
 
+/* Импорт файлов стилей секции "Сражения" */
+@import url(../blocks/battle/battle.css);
+@import url(../blocks/battle/__container/battle__container.css);
+@import url(../blocks/battle/__heading/battle__heading.css);
+@import url(../blocks/battle/__text/battle_text.css);
+@import url(../blocks/battle/__cards/battle__cards.css);
+@import url(../blocks/battle/__images/battle__images.css);
+@import url(../blocks/battle/__half-ring/battle__half-ring.css);
+@import url(../blocks/battle/__chess-stripe/battle__chess-stripe.css);

@@ -1,0 +1,5 @@
+.battle__cards {
+  margin-bottom: 294px;
+  display: flex;
+  justify-content: space-between;
+}

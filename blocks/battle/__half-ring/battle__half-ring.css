@@ -1,0 +1,11 @@
+.battle__half-ring {
+  background-image: url(../../../images/half-ring.png);
+  background-repeat: no-repeat;
+  width: 440px;
+  height: 440px;
+  background-position: center;
+  position: absolute;
+  left: 0;
+  bottom: -110px;
+  
+}

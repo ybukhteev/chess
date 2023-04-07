@@ -1,0 +1,10 @@
+.battle__chess-stripe {
+  background-image: url(../../../images/battle-stripe.png);
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+  right: 160px;
+  bottom: 58px;
+  width: 416px;
+  height: 104px;
+}
